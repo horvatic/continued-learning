@@ -6,9 +6,10 @@ Planned continued learning for my professional career
 ### Certification
 - PO Certification
 - Scrum Certification
-- Togaf Certification / Understand Togaf framework
+- Togaf Certification
 
 ### Topics To Learn
+- Understand Togaf framework
 - Data Architecture
 - Information Architecture
 - Enterprise Architecture
