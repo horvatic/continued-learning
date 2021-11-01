@@ -1,5 +1,5 @@
 # Continued Learning
-Planned continued learning for my professional career
+Planned continued learning for my professional career to one day be a CTO
 
 ## 2021 - 2023
 
